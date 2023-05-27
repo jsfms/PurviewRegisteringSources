@@ -1,4 +1,4 @@
-# EN-US
+# English
 Welcome to my GitHub repository! Here, I present a script that addresses a specific challenge encountered during the migration process from Azure Database for MySQL and PostgreSQL Single Server to Flexible Server.
 
 As you may be aware, Azure is transitioning its services, and the retirement path for Azure Database for MySQL and PostgreSQL Single Server has been established. In order to ensure a smooth transition, it is highly recommended to migrate to Flexible Server. However, one hurdle we face is that the Purview connector is currently not compatible with Flexible Server via the user interface (UI).
