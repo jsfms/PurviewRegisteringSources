@@ -1,4 +1,4 @@
-# PurviewScan EN-US
+# EN-US
 Welcome to my GitHub repository! Here, I present a script that addresses a specific challenge encountered during the migration process from Azure Database for MySQL and PostgreSQL Single Server to Flexible Server.
 
 As you may be aware, Azure is transitioning its services, and the retirement path for Azure Database for MySQL and PostgreSQL Single Server has been established. In order to ensure a smooth transition, it is highly recommended to migrate to Flexible Server. However, one hurdle we face is that the Purview connector is currently not compatible with Flexible Server via the user interface (UI).
@@ -14,7 +14,7 @@ Thank you for visiting this repository, and I hope this script proves to be valu
 Note: It is essential to thoroughly review the script and ensure it aligns with your specific requirements and best practices before implementing it in your environment.
 
 
-# PurviewScan PT-BR
+# PT-BR
 Bem-vindo ao meu repositório no GitHub! Aqui, apresento um script que aborda um desafio específico encontrado durante o processo de migração do Azure Database para MySQL e PostgreSQL Single Server para o Flexible Server.
 
 Como você pode saber, a Azure está fazendo uma transição em seus serviços e estabeleceu o caminho de aposentadoria para o Azure Database para MySQL e PostgreSQL Single Server. Para garantir uma transição tranquila, é altamente recomendado migrar para o Flexible Server. No entanto, um obstáculo que enfrentamos é que o conector Purview atualmente não é compatível com o Flexible Server por meio da interface do usuário (UI).
